@@ -1,2 +1,2 @@
 # Gitxue
-my blogs
+comprehend android, learning never give up
